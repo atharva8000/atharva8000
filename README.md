@@ -36,3 +36,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
+## 📱 Featured Projects
+
+- 🛒 **E-Commerce Store** — A Spring Boot and MySQL-powered store with admin dashboard and login.  
+  [View Repository](https://github.com/atharva8000/ecommerce-store)
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/atharva-gadekar-263099284)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](atharva7758@gmail.com)
+
